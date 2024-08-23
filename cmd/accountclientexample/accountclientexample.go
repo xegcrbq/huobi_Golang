@@ -1,11 +1,11 @@
 package accountclientexample
 
 import (
-	"github.com/huobirdcenter/huobi_golang/config"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/client"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/account"
 	"github.com/shopspring/decimal"
+	"github.com/xegcrbq/huobi_golang/config"
+	"github.com/xegcrbq/huobi_golang/logging/applogger"
+	"github.com/xegcrbq/huobi_golang/pkg/client"
+	"github.com/xegcrbq/huobi_golang/pkg/model/account"
 )
 
 func RunAllExamples() {
